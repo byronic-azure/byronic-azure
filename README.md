@@ -1,4 +1,4 @@
-# 🌌 BYRONIC-AZURE: iQuantumNeuralConvergence Platform
+# 🌌 BYRONIC-AZURE: QuantumNeural Convergence Platform (QCP)
 
 <div align="center">
 
